@@ -11,7 +11,6 @@ public class Main {
 		discoTitanic.createNewTable( "Table 1" );
 		discoTitanic.createNewParagraph( "Paragraph 5" );
 
-		System.out.println("The following info was introduced: ");
 		discoTitanic.print();
 	}
 
